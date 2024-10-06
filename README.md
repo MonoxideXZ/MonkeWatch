@@ -12,6 +12,10 @@ Either install BepInEx Download this: https://github.com/DeadlyKitten/MonkeModMa
 Press the ingame MonkeWatch on your Left Hand.![image](https://github.com/user-attachments/assets/98771d11-18d1-4a40-bd00-e80071a8b6c5)
 
 and then press enter. ![image](https://github.com/user-attachments/assets/2732aa59-a558-43b2-a7f7-4add993f5a0f)
-
+------------------------------------------------------------------------------------------------------------------------
+# ADDONS FOR MONKE WATCH
+find addons here!
+https://github.com/MonoxideXZ/MonkeWatch-Addons/releases
+------------------------------------------------------------------------------------------------------------------------
 # Disclaimers
 This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.
